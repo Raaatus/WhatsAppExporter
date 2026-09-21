@@ -1,0 +1,83 @@
+{
+  "extDescription": { "message": "Export WhatsApp Web: address book, conversations, groups and labels (CSV / vCard / JSON)." },
+
+  "tabContacts": { "message": "Contacts" },
+  "tabMessages": { "message": "Messages" },
+  "tabGroups": { "message": "Groups" },
+  "tabLabels": { "message": "Labels" },
+
+  "typeContactsTitle": { "message": "Address book" },
+  "typeContactsDesc": { "message": "Saved contacts · name + number" },
+  "typeChatsTitle": { "message": "Conversations" },
+  "typeChatsDesc": { "message": "Full history · 1 file per chat" },
+  "typeGroupsTitle": { "message": "Groups" },
+  "typeGroupsDesc": { "message": "Messages from all groups" },
+  "typeMembersTitle": { "message": "Members" },
+  "typeMembersDesc": { "message": "Group participants · name + number" },
+  "typeLabelsTitle": { "message": "Labels" },
+  "typeLabelsDesc": { "message": "Contacts by WhatsApp label" },
+
+  "exportFabTitle": { "message": "Export WhatsApp" },
+  "exportFabAria": { "message": "Export" },
+  "headTitle": { "message": "Export WhatsApp" },
+  "headSubtitle": { "message": "Contacts & conversations" },
+  "btnRefresh": { "message": "Refresh" },
+  "btnClose": { "message": "Close" },
+
+  "pillConnecting": { "message": "Connecting…" },
+  "pillExporting": { "message": "Exporting…" },
+  "pillConnected": { "message": "WhatsApp connected" },
+  "pillDisconnected": { "message": "Not connected" },
+  "pillWaiting": { "message": "Waiting…" },
+
+  "modeQuick": { "message": "Quick export" },
+  "modeAdvanced": { "message": "Select" },
+
+  "quickSectionTitle": { "message": "What do you want to export?" },
+  "quickHintDefault": { "message": "Choose a source, then the format. Conversations export the full message history." },
+
+  "fmtCsv": { "message": "CSV" },
+  "fmtVcf": { "message": "vCard" },
+  "fmtJson": { "message": "JSON" },
+
+  "searchPlaceholder": { "message": "Search…" },
+  "toolbarSelectedCount": { "message": "$1 / $2 selected" },
+  "toolbarAll": { "message": "All" },
+  "toolbarNone": { "message": "None" },
+
+  "listEmptyNoTab": { "message": "Open a tab to load the list." },
+  "listEmptyLoading": { "message": "Loading…" },
+  "listEmptyConnectFirst": { "message": "Connect to WhatsApp Web first." },
+  "listEmptyNoResults": { "message": "No results for \"$1\"" },
+
+  "optDedupe": { "message": "Merge duplicates" },
+  "optSimple": { "message": "Simple CSV (name + number)" },
+  "optSplit": { "message": "1 file per conversation" },
+
+  "exportAllBtn": { "message": "Export the whole list" },
+
+  "statusReady": { "message": "Ready to export." },
+  "statusConnectFirst": { "message": "Open WhatsApp Web and log in." },
+  "statusSelectAtLeastOne": { "message": "Select at least one item." },
+  "statusTimeout": { "message": "Timeout — reload WhatsApp Web." },
+  "statusExportFailed": { "message": "Export failed" },
+  "statusItemsLoaded": { "message": "$1 items loaded." },
+  "statusNoMessages": { "message": "No messages ($1 chats, $2 empty)." },
+  "statusMessagesExported": { "message": "$1 messages · $2 file(s)." },
+  "statusNoNumbers": { "message": "No numbers ($1 seen, $2 skipped)." },
+  "statusContactsExported": { "message": "$1 contacts exported$2." },
+  "statusExtraNoNumber": { "message": " · $1 without a number" },
+
+  "quickLabelContacts": { "message": "address book" },
+  "quickLabelChats": { "message": "1:1 messages" },
+  "quickLabelGroups": { "message": "group messages" },
+  "quickLabelGroupMembers": { "message": "group members" },
+  "quickLabelLabels": { "message": "labels" },
+  "exportingLabel": { "message": "Exporting $1…" },
+
+  "csvHeaderSimple": { "message": "Name,Phone" },
+  "csvHeaderFull": { "message": "Name,Phone,Source,Group,Admin" },
+  "csvHeaderMsgSingle": { "message": "Date,From,Message" },
+  "csvHeaderMsgMulti": { "message": "Conversation,Date,From,Message" },
+  "yesLabel": { "message": "yes" }
+}

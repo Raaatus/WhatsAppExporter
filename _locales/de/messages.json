@@ -1,0 +1,83 @@
+{
+  "extDescription": { "message": "WhatsApp Web exportieren: Adressbuch, Unterhaltungen, Gruppen und Labels (CSV / vCard / JSON)." },
+
+  "tabContacts": { "message": "Kontakte" },
+  "tabMessages": { "message": "Nachrichten" },
+  "tabGroups": { "message": "Gruppen" },
+  "tabLabels": { "message": "Labels" },
+
+  "typeContactsTitle": { "message": "Adressbuch" },
+  "typeContactsDesc": { "message": "Gespeicherte Kontakte · Name + Nummer" },
+  "typeChatsTitle": { "message": "Unterhaltungen" },
+  "typeChatsDesc": { "message": "Vollständiger Verlauf · 1 Datei pro Chat" },
+  "typeGroupsTitle": { "message": "Gruppen" },
+  "typeGroupsDesc": { "message": "Nachrichten aller Gruppen" },
+  "typeMembersTitle": { "message": "Mitglieder" },
+  "typeMembersDesc": { "message": "Gruppenmitglieder · Name + Nummer" },
+  "typeLabelsTitle": { "message": "Labels" },
+  "typeLabelsDesc": { "message": "Kontakte nach WhatsApp-Label" },
+
+  "exportFabTitle": { "message": "WhatsApp exportieren" },
+  "exportFabAria": { "message": "Exportieren" },
+  "headTitle": { "message": "WhatsApp-Export" },
+  "headSubtitle": { "message": "Kontakte & Unterhaltungen" },
+  "btnRefresh": { "message": "Aktualisieren" },
+  "btnClose": { "message": "Schließen" },
+
+  "pillConnecting": { "message": "Verbinden…" },
+  "pillExporting": { "message": "Export läuft…" },
+  "pillConnected": { "message": "WhatsApp verbunden" },
+  "pillDisconnected": { "message": "Nicht verbunden" },
+  "pillWaiting": { "message": "Warten…" },
+
+  "modeQuick": { "message": "Schnellexport" },
+  "modeAdvanced": { "message": "Auswählen" },
+
+  "quickSectionTitle": { "message": "Was möchtest du exportieren?" },
+  "quickHintDefault": { "message": "Wähle zuerst eine Quelle, dann das Format. Unterhaltungen exportieren den vollständigen Nachrichtenverlauf." },
+
+  "fmtCsv": { "message": "CSV" },
+  "fmtVcf": { "message": "vCard" },
+  "fmtJson": { "message": "JSON" },
+
+  "searchPlaceholder": { "message": "Suchen…" },
+  "toolbarSelectedCount": { "message": "$1 / $2 ausgewählt" },
+  "toolbarAll": { "message": "Alle" },
+  "toolbarNone": { "message": "Keine" },
+
+  "listEmptyNoTab": { "message": "Öffne einen Tab, um die Liste zu laden." },
+  "listEmptyLoading": { "message": "Wird geladen…" },
+  "listEmptyConnectFirst": { "message": "Verbinde zuerst WhatsApp Web." },
+  "listEmptyNoResults": { "message": "Keine Ergebnisse für „$1“" },
+
+  "optDedupe": { "message": "Duplikate zusammenführen" },
+  "optSimple": { "message": "Einfaches CSV (Name + Nummer)" },
+  "optSplit": { "message": "1 Datei pro Unterhaltung" },
+
+  "exportAllBtn": { "message": "Gesamte Liste exportieren" },
+
+  "statusReady": { "message": "Bereit zum Exportieren." },
+  "statusConnectFirst": { "message": "Öffne WhatsApp Web und melde dich an." },
+  "statusSelectAtLeastOne": { "message": "Wähle mindestens ein Element aus." },
+  "statusTimeout": { "message": "Zeitüberschreitung — WhatsApp Web neu laden." },
+  "statusExportFailed": { "message": "Export fehlgeschlagen" },
+  "statusItemsLoaded": { "message": "$1 Einträge geladen." },
+  "statusNoMessages": { "message": "Keine Nachrichten ($1 Chats, $2 leer)." },
+  "statusMessagesExported": { "message": "$1 Nachrichten · $2 Datei(en)." },
+  "statusNoNumbers": { "message": "Keine Nummern ($1 gesehen, $2 übersprungen)." },
+  "statusContactsExported": { "message": "$1 Kontakte exportiert$2." },
+  "statusExtraNoNumber": { "message": " · $1 ohne Nummer" },
+
+  "quickLabelContacts": { "message": "Adressbuch" },
+  "quickLabelChats": { "message": "1:1-Nachrichten" },
+  "quickLabelGroups": { "message": "Gruppennachrichten" },
+  "quickLabelGroupMembers": { "message": "Gruppenmitglieder" },
+  "quickLabelLabels": { "message": "Labels" },
+  "exportingLabel": { "message": "Exportiere $1…" },
+
+  "csvHeaderSimple": { "message": "Name,Telefon" },
+  "csvHeaderFull": { "message": "Name,Telefon,Quelle,Gruppe,Admin" },
+  "csvHeaderMsgSingle": { "message": "Datum,Von,Nachricht" },
+  "csvHeaderMsgMulti": { "message": "Unterhaltung,Datum,Von,Nachricht" },
+  "yesLabel": { "message": "ja" }
+}
